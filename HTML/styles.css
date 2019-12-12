@@ -1,4 +1,4 @@
-body{background-color:Pink;}
+body{background-color:Pink;border-style:solid;}
 
 p{color:green;font-family:Aharoni;}
 
@@ -11,3 +11,5 @@ ul{
   color: yellow;
   font-family:"Iskoola Pota";
 }
+
+hr{color:red;}
